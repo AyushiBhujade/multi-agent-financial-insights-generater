@@ -1,1 +1,1 @@
-# multi-agent-financial-insights-generater
+# multi-agent-financial-insights-generator
